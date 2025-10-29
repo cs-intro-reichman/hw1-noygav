@@ -5,8 +5,8 @@ public class Print5{
 		// Declares an int variable, and sets it to 1
         int i = 0;
         System.out.println("done");
-        System.out.println("main")
-
-;        // Complete the program's code here:
+        System.out.println("main");
+        System.out.println("i+1");
+        // Complete the program's code here:
     }
  }
