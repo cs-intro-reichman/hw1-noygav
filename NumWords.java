@@ -10,5 +10,7 @@ public class NumWords {
 
 		System.out.println(hundreds + " hundreds, " + tens + " tens, and " + units + " ones.");
 		// 5 hundreds, 1 tens, and 7 ones.
+
+		
 	}
 }
