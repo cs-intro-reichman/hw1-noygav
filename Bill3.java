@@ -10,5 +10,5 @@ public class Bill3 {
 		double result =Math.ceil(sum / 3.0);
 
 		System.out.print("Dear " + name3 + ", " + name2 + " and " + name1 + ": pay " + result + " Shekels each."); 
-	}
+	}  
 } 
